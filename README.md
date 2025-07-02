@@ -23,7 +23,7 @@ pip install .
 # Now run your script inside the venv
 
 ```
-python mcp-server-filesystem.py
+python mcp-server-launchdarkly.py
 ```
 
 # .env
